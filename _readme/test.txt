@@ -1,0 +1,20 @@
+
+
+Test #1:
+
+ - change the app so that the multiplication results are correct
+
+
+
+Test #2:
+
+ - add a method to MathLit class that does division
+	* the result must be integer
+	* division by zero (0) must display "undefined: division by zero (a/0)"
+
+
+Test #3:
+
+ - test if a number is a prime number
+	* prime numbers are only divisble by itself and by 1
+	* eg: 1, 2, 3, 5, 7, 11 are prime numbers; while 4, 6 and 8 are not
