@@ -1,3 +1,8 @@
+NB: If any are not installed, see shared folder(\\fileshare-new\???)
+ - Open solution in VS 2015, if not installed
+ - make sure you have vs2015 update 3 installed
+ - install AspNetWebFrameworksTools2015_KB3137909
+====================================================================
 
 
 Test #1:
